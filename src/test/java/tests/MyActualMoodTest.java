@@ -3,8 +3,6 @@ package tests;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-;
-
 public class MyActualMoodTest extends BaseTest{
 
     @Test(description = "Check my actual mood")
